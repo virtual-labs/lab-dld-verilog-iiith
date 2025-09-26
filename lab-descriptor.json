@@ -10,7 +10,7 @@
   "collegeName": "IIITH",
   "baseUrl": "dldv-iiith.vlabs.ac.in",
   "introduction": "The Digital Logic Design with Verilog Lab provides a hands-on environment for mastering hardware description language concepts. Students design, simulate, and analyze digital circuits, enhancing their understanding of logic design, sequential and combinational circuits, and efficient hardware implementation using Verilog.",
-  "experiment":[
+  "experiments":[
   {
     "name": "Design of Adder circuit using Verilog",
     "short-name": "adder-circuit-verilog",
