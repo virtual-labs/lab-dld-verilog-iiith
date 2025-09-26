@@ -76,7 +76,7 @@
   "objective": "Key Learning Outcomes:<ul><li>Designing Digital Circuits: Implement and simulate combinational and sequential circuits using Verilog.</li><li>Enhancing HDL Proficiency: Develop efficient hardware models and optimize logic design.</li><li>Bridging Theory and Practice: Apply Verilog coding techniques for real-world digital system development.</li></ul>",
   "courseAlignment": {
     "description": "Digital Logic Design is a professional core course in Electronics and Communication Engineering (PCC-EC03 and PCC-EC04) recommended in the AICTE model curriculum",
-    "universities": [
+    "universities": [""
     ]
   }
  
